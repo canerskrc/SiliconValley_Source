@@ -25,7 +25,7 @@
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/canerskrc/SilconValley_Source.git
+   git clone https://github.com/canerskrc/SiliconValley_Source.git
    ```
 
 ## 💡 File Details
